@@ -118,7 +118,11 @@
 <br/>
 
 <!-- 7. FULL-STACK TECHNOLOGY ARSENAL -->
-<h3 align="center">🛠️ Full-Stack Technology Arsenal</h3>
+<h3 align="center">🛠️ Full-Stack, Mobile & Enterprise Technology Arsenal</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,cs,cpp,dart,flutter,react,nextjs,nodejs,express,python,php,html,css,tailwind,mysql,mongodb,firebase,git,github,vscode,postman,figma&perline=12" />
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,html,css,tailwind,bootstrap,python,php,mysql,mongodb,firebase,git,github,vscode,postman,figma&perline=10" />
