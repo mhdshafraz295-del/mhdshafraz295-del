@@ -1,9 +1,6 @@
-<!-- 1. TOP CONTRIBUTION SNAKE (Uncomment after running Generate Snake workflow) -->
-<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/mhdshafraz295-del/mhdshafraz295-del/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
--->
 
 <!-- 2. EXECUTIVE HERO HEADER -->
 <div align="center">
