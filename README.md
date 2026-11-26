@@ -123,6 +123,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,html,css,tailwind,bootstrap,python,php,mysql,mongodb,firebase,git,github,vscode,postman,figma&perline=10" />
 </div>
+<br/>
 <li>💻 Core Expertise in <b>TypeScript, JavaScript, Java, C#, C++, Dart, Flutter, React, Next.js & Node.js</b></li>
 
 <br/>
