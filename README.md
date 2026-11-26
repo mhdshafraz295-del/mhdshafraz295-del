@@ -134,7 +134,34 @@
 
 <!-- 8. INTERACTIVE EXPANDABLE DOMAIN MATRIX -->
 <details>
-  <summary><b>⚡ Click to Explore Detailed Engineering & Domain Matrix</b></summary>
+ <summary><b>⚡ Click to Explore Detailed Engineering & Domain Matrix</b></summary>
+  <br/>
+  <table width="100%">
+    <tr>
+      <th>Domain</th>
+      <th>Technologies & Capabilities</th>
+    </tr>
+    <tr>
+      <td><b>Frontend Engineering</b></td>
+      <td><code>TypeScript</code>, <code>JavaScript (ES6+)</code>, <code>React.js</code>, <code>Next.js</code>, <code>Tailwind CSS</code>, <code>HTML5</code>, <code>CSS3</code></td>
+    </tr>
+    <tr>
+      <td><b>Mobile & Cross-Platform</b></td>
+      <td><code>Flutter</code>, <code>Dart</code>, <code>Android & iOS App Architecture</code>, <code>Firebase Integration</code></td>
+    </tr>
+    <tr>
+      <td><b>Backend, Enterprise & Systems</b></td>
+      <td><code>Java</code>, <code>C#</code>, <code>C++</code>, <code>Node.js</code>, <code>Express.js</code>, <code>RESTful APIs</code>, <code>PHP</code>, <code>Python</code></td>
+    </tr>
+    <tr>
+      <td><b>Databases & Cloud</b></td>
+      <td><code>MySQL</code>, <code>MongoDB</code>, <code>Firebase</code>, <code>Git</code>, <code>GitHub Actions</code>, <code>CI/CD</code></td>
+    </tr>
+    <tr>
+      <td><b>Language & Research</b></td>
+      <td><code>Academic & Technical Translation</code>, <code>Arabic-English-Tamil Localization</code>, <code>EdTech</code></td>
+    </tr>
+  </table>
   <br/>
   <table width="100%">
     <tr>
