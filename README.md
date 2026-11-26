@@ -1,12 +1,17 @@
-<!-- Top Animated Wave Header -->
+<!-- Top Banner (100% Reliable SVG Header) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:1e1b4b,100:4c1d95&height=230&section=header&text=Naseerdeen%20Mohamed%20Safras&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Tech%20Entrepreneur%20%7C%20Al-Aalim%20%26%20Hafiz&descAlignY=56&descSize=16" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Header Animation" onerror="this.style.display='none'" />
 </div>
 
-<!-- Dynamic Typing Hero -->
+<div align="center">
+  <h1>⚡ Naseerdeen Mohamed Safras ⚡</h1>
+  <h3>Software Engineer | Tech Entrepreneur | Al-Aalim & Hafiz</h3>
+</div>
+
+<!-- Typing Animation (Reliable Endpoint) -->
 <div align="center">
   <a href="https://github.com/mhdshafraz295-del">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=720&lines=Founder+%40+NexGen+Solution+%F0%9F%9A%80;Software+Engineer+%26+Full-Stack+Developer+%F0%9F%92%BB;Al-Aalim+%26+Hafiz-ul-Quran+%F0%9F%95%8C;B.A.+(Hons)+in+Translation+Studies+%F0%9F%8C%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=720&lines=Founder+%40+NexGen+Solution+%F0%9F%9A%80;Software+Engineer+%26+Full-Stack+Developer+%F0%9F%92%BB;Al-Aalim+%26+Hafiz-ul-Quran+%F0%9F%95%8C;B.A.+(Hons)+in+Translation+Studies+%F0%9F%8C%90" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,7 +30,7 @@
 <table>
   <tr>
     <td width="65%">
-      <h3>⚡ Assalamu Alaikum! I'm Safras</h3>
+      <h3>👋 Assalamu Alaikum! I'm Safras</h3>
       <p>
         I am a multi-disciplinary <b>Software Engineer</b>, <b>Tech Entrepreneur</b>, and <b>Islamic Scholar (Al-Aalim & Hafiz)</b> from Sri Lanka. Combining deep analytical engineering, linguistic mastery, and ethical leadership, I architect scalable software solutions that bridge technology and real-world impact.
       </p>
@@ -38,7 +43,7 @@
       </ul>
     </td>
     <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Developer Animation" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="180" alt="Developer Avatar" />
     </td>
   </tr>
 </table>
@@ -53,7 +58,7 @@
       <h4>💻 Engineering, IT & University Degrees</h4>
       <ul>
         <li>
-          <b>B.Sc. / Higher Studies in Software Engineering</b><br/>
+          <b>Software Engineering</b><br/>
           <i>ESOFT Metro Campus / University</i>
         </li>
         <br/>
@@ -109,26 +114,18 @@
 ### 📊 Live GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhdshafraz295-del&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdshafraz295-del&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhdshafraz295-del&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdshafraz295-del&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mhdshafraz295-del&theme=synthwave&hide_border=true&background=0d1117" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhdshafraz295-del&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=mhdshafraz295-del&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 
-### 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhdshafraz295-del&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhdshafraz295-del&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
 <br/>
@@ -145,9 +142,4 @@
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
-
-<!-- Bottom Wave Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:1e1b4b,100:090d16&height=120&section=footer" width="100%" />
 </div>
