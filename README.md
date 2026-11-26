@@ -13,6 +13,21 @@
 <!-- 3. DYNAMIC TYPING HERO -->
 <div align="center">
   <a href="https://github.com/mhdshafraz295-del">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=720&lines=Full-Stack+Software+Engineer+%F0%9F%92%BB;Founder+%40+NexGen+Solution+%F0%9F%9A%80;Al-Aalim+%26+Hafiz-ul-Quran+%F0%9F%95%8C;B.A.+(Hons)+in+Translation+Studies+%F0%9F%8C%90" alt="Typing SVG" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/mhdshafraz295-del">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=720&lines=Full-Stack+Software+Engineer+%F0%9F%92%BB;Founder+%40+NexGen+Solution+%F0%9F%9A%80;Al-Aalim+%26+Hafiz-ul-Quran+%F0%9F%95%8C;B.A.+(Hons)+in+Translation+Studies+%F0%9F%8C%90" alt="Typing SVG" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/mhdshafraz295-del">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=720&lines=Full-Stack+Software+Engineer+%F0%9F%92%BB;Founder+%40+NexGen+Solution+%F0%9F%9A%80;Al-Aalim+%26+Hafiz-ul-Quran+%F0%9F%95%8C;B.A.+(Hons)+in+Translation+Studies+%F0%9F%8C%90" alt="Typing SVG" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/mhdshafraz295-del">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=720&lines=Founder+%40+NexGen+Solution+%F0%9F%9A%80;Architecting+Scalable+Digital+Ecosystems+%F0%9F%92%BB;Al-Aalim+%26+Hafiz-ul-Quran+%F0%9F%95%8C;B.A.+(Hons)+in+Translation+Studies+%F0%9F%8C%90" alt="Typing SVG" />
   </a>
 </div>
